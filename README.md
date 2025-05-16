@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wadalisa Molokwe
-- 👀 I’m interested in software development, data automation, AI, and community-driven tech solutions
+- 👀 I’m interested in software development, data automation, AI, and community-driven tech solutions. I love learning new things and techniques.
 - 🌱 I’m currently learning advanced computer science topics through my honors degree, and experimenting with automation and genetic programming
 - 💞️ I’m looking to collaborate on open-source tools for IT operations, automation scripts, and AI-driven analytics
 - 📫 How to reach me : womolokwe@gmail.com
